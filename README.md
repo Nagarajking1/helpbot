@@ -1,4 +1,4 @@
-# TessiaEralith_bot
+# Tessia
 
 <p align='center'>
   <img src="https://img.shields.io/github/forks/Hirojazz/Tessia?style=flat-square" alt="Forks">
